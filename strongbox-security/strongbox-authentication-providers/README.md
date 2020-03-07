@@ -1,1 +1,0 @@
-Strongbox authentication providers enumerates all supported builin authentication providers.
